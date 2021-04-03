@@ -1,0 +1,3 @@
+a = 'Vlad bumaga est govno'
+b = a*9999
+print(b)
